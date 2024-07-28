@@ -6,6 +6,7 @@ public class thisfunction {
     void greeting(){
         System.out.println("hi my name is "+name);
     }
+    // constructor
     thisfunction(){
         this.rollno=18;
         this.name="sreekanth";
@@ -27,3 +28,4 @@ public class thisfunction {
     }
    
 }
+

@@ -9,6 +9,7 @@ public class intro {
     String name;
     float marks;
     public static void main(){
+        // create object.....
         intro student=new intro();
         student.marks=90;
     }
